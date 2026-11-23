@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Less Annoying Hide Button",
+    "description": "Pins 'Hide in this playlist' button to the top of the context menu prevent you blocking the jam you're just about to queue up.",
+    "preview": "preview.png",
+    "main": "pinHideButtonToTop.js",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "BiiirdPrograms",
+        "url": "https://github.com/BiiirdPrograms"
+      }
+    ],
+    "tags": ["context-menu", "ui", "fix"]
+  }
+]
+
